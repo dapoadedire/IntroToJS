@@ -4,4 +4,4 @@ let sum = 0;
 for (i in myArray){
     sum += myArray[i];   
 }
-console.log(sum)
+console.log("Sum is " + sum)
